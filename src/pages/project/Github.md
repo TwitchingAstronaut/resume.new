@@ -21,7 +21,7 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/tabris.png)](https://tryhackme.com/p/tabris)
 [![](https://www.hackthebox.eu/badge/image/665072)](https://app.hackthebox.eu/profile/665072)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Twitching-blue?style=for-the-badge&logo=hackerone)](https://hackerone.com/twitching?type=user)![Twitch Status](https://img.shields.io/twitch/status/twitching_astronaut?logo=twitch&style=for-the-badge)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Twitching-blue?style=for-the-badge&logo=hackerone)](https://hackerone.com/twitching?type=user)[![Twitch Status](https://img.shields.io/twitch/status/twitching_astronaut?logo=twitch&style=for-the-badge)](https://www.twitch.tv/twitching_astronaut)
 
 ---
 
@@ -32,13 +32,13 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 #### TryHackME
 - [ ] Reach Top 1000 on TryHackMe
 - [ ] Reach Top 10 (Australia) on TryHackMe
-- [ ] Maintain Continous Streak <br>(As at 20/09/2022 Streak is 283 Days)
+- [ ] Maintain Continous Streak <br>(As at 08/10/2022 Streak is 302 Days)
 </td>
 <td>
 
 #### HackTheBox
 
-- [ ] Complete Starting Point
+- [x] ~~Complete Starting Point~~
 - [ ] Reach "Hacker" Rank
 
 </td>
@@ -62,9 +62,9 @@ Just started out on my Cyber-Security/ Infosec journey in August 2021
 
 #### Certifications
 
-- [ ] Comptia A+
-- [ ] Comptia Network+
-- [ ] Comptia Security+
+- [ ] CompTia A+
+- [ ] CompTia Network+
+- [ ] CompTia Security+
 - [ ] eJPT
 - [ ] OSCP
 
